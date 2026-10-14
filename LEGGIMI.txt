@@ -1,0 +1,11 @@
+MARAT — IL CASO DEL 1793
+Ideato dal Prof. Marco Cigolotti
+Repository suggerito: marat-il-caso-del-1793
+Gioco didattico per la terza media. Narrazione originale con nomi dei creator The Snack Club, senza affiliazione. Dialoghi inventati.
+Testi storici e artistici esclusivamente da MORTE MARAT.pdf (38 pagine).
+Pubblicazione: crea repository GitHub, carica index.html, FONTI_IMMAGINI.txt, LEGGIMI.txt e cartella images; Settings > Pages > Deploy from a branch > main / root.
+Nessuna libreria, font esterno, account o server richiesti. HTML/CSS/JS in un solo file.
+LIMITAZIONE IMMAGINI: l'ambiente non ha consentito il download da Wikimedia Commons. Per rispettare il divieto di usare immagini dal PDF, il gioco mostra direttamente immagini da Wikimedia Commons tramite Special:FilePath. Richiede Internet; la cartella images contiene solo una nota. Per un pacchetto completamente autonomo scaricare i file dalle pagine Commons documentate, verificare le licenze e sostituire gli URL nella funzione commons() con percorsi locali.
+Accessibilità: carattere Arial di sistema, zoom, interlinea, spaziatura, crema, contrasto, righello, maschera, animazioni ridotte, TTS it-IT ove disponibile, tasti nativi.
+Test eseguiti: verifica statica della struttura, controllo sintattico JS se disponibile, integrità ZIP.
+Test non eseguiti: collaudo browser reale, rete Wikimedia, LIM, smartphone, sintesi vocale specifica del dispositivo.
