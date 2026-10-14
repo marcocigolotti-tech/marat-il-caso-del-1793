@@ -1,0 +1,11 @@
+INSERISCI QUI FILE MP3 DI VOCE FEMMINILE NATURALE (NON PRESENTI IN QUESTO PACCHETTO):
+prova-voce.mp3
+prologo.mp3
+missione-01.mp3
+missione-02.mp3
+missione-03.mp3
+missione-04.mp3
+missione-05.mp3
+missione-06.mp3
+
+I testi esatti sono nel file COPIONE_AUDIO.txt. La registrazione di ogni missione si attiva con Ascolta la scena. Se manca il file MP3, il gioco ripiega sulla voce del dispositivo. Non è una voce neurale garantita.

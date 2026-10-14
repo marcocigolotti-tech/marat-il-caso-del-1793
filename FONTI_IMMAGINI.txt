@@ -1,15 +1,4 @@
-FONTI IMMAGINI — MARAT | IL CASO DEL 1793
-ATTENZIONE: immagini Wikimedia Commons collegate da remoto, NON presenti fisicamente nella cartella images. Connessione Internet necessaria.
-1) La morte di Marat — Jacques-Louis David, 1793.
-Pagina: https://commons.wikimedia.org/wiki/File:Death_of_Marat_by_David.jpg
-Licenza/stato: riproduzione di opera in pubblico dominio; verificare sezione Licensing nella pagina Commons.
-Modifiche: nessuna; ridimensionamento automatico nella pagina web.
-2) Autoritratto — Jacques-Louis David, 1794.
-Pagina: https://commons.wikimedia.org/wiki/File:David_Self_Portrait.jpg
-Licenza/stato: riproduzione di opera in pubblico dominio; verificare sezione Licensing nella pagina Commons.
-Modifiche: nessuna; ridimensionamento automatico nella pagina web.
-3) Dettaglio della lettera — Jacques-Louis David, 1793.
-Pagina: https://commons.wikimedia.org/wiki/File:Jacques-Louis_David,_La_Mort_de_Marat_(ou_Marat_assassiné),_1793,_Bruxelles,_Musées_royaux_des_Beaux‑Arts_de_Belgique,_inv._3260_(détail_de_la_lettre).jpg
-Licenza/stato: consultare la pagina Wikimedia Commons; licenza specifica non verificata.
-Modifiche: nessuna.
-NOTA: nessuna immagine del PDF allegato è stata utilizzata.
+Fonte: Wikimedia Commons, Jacques-Louis David, La morte di Marat (1793).
+URL utilizzato: https://commons.wikimedia.org/wiki/Special:FilePath/Death%20of%20Marat%20by%20David.jpg
+Pagina del file: https://commons.wikimedia.org/wiki/File:Death_of_Marat_by_David.jpg
+Il dipinto originale è in pubblico dominio per età; controllare i metadati e la disponibilità del file digitale nella pagina Commons. Nessuna immagine estratta dal PDF.

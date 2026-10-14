@@ -1,11 +1,11 @@
-MARAT — IL CASO DEL 1793
+MARAT 1793 — DOSSIER INVESTIGATIVO
 Ideato dal Prof. Marco Cigolotti
-Repository suggerito: marat-il-caso-del-1793
-Gioco didattico per la terza media. Narrazione originale con nomi dei creator The Snack Club, senza affiliazione. Dialoghi inventati.
-Testi storici e artistici esclusivamente da MORTE MARAT.pdf (38 pagine).
-Pubblicazione: crea repository GitHub, carica index.html, FONTI_IMMAGINI.txt, LEGGIMI.txt e cartella images; Settings > Pages > Deploy from a branch > main / root.
-Nessuna libreria, font esterno, account o server richiesti. HTML/CSS/JS in un solo file.
-LIMITAZIONE IMMAGINI: l'ambiente non ha consentito il download da Wikimedia Commons. Per rispettare il divieto di usare immagini dal PDF, il gioco mostra direttamente immagini da Wikimedia Commons tramite Special:FilePath. Richiede Internet; la cartella images contiene solo una nota. Per un pacchetto completamente autonomo scaricare i file dalle pagine Commons documentate, verificare le licenze e sostituire gli URL nella funzione commons() con percorsi locali.
-Accessibilità: carattere Arial di sistema, zoom, interlinea, spaziatura, crema, contrasto, righello, maschera, animazioni ridotte, TTS it-IT ove disponibile, tasti nativi.
-Test eseguiti: verifica statica della struttura, controllo sintattico JS se disponibile, integrità ZIP.
-Test non eseguiti: collaudo browser reale, rete Wikimedia, LIM, smartphone, sintesi vocale specifica del dispositivo.
+
+Carica index.html su GitHub Pages (Settings > Pages > Deploy from branch, main/root).
+Gioco investigativo in sei missioni, con dossier, prove progressive, ipotesi, feedback e rapporto stampabile.
+Contenuti storici esclusivamente dal PDF «MORTE MARAT.pdf», tratto da artesvelata.it.
+Dialoghi dei personaggi The Snack Club inventati e progetto non ufficiale.
+Audio: selezione automatica delle voci italiane preferendo quelle con nomi Natural/Neural/Enhanced/Premium, ove installate. La sintesi vocale di sistema può ancora risultare meccanica: per ottenere una narrazione sempre naturale occorrono tracce audio registrate o un servizio neurale esterno. Non è stato integrato un servizio a pagamento né caricati file vocali di persone reali.
+Immagine: richiamata online da Wikimedia Commons, non dal PDF. Richiede Internet. La licenza e la disponibilità vanno ricontrollate sulla pagina Commons prima della pubblicazione.
+
+AGGIORNAMENTO VOCE FEMMINILE: supporto a tracce MP3 preregistrate nella cartella audio, prioritarie rispetto alla sintesi del browser. Il pacchetto NON include tracce neurali: devono essere generate o registrate separatamente seguendo COPIONE_AUDIO.txt. Fallback alla voce femminile di sistema, se presente.
